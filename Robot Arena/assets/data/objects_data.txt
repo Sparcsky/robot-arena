@@ -1,0 +1,79 @@
+name: stage_1
+xy: 1 5063
+size: 4000 3000
+lengthX: 1
+lengthY: 1
+
+name: stage_2
+xy: 2051 3061
+size: 2000 2000
+lengthX: 1
+lengthY: 1
+
+name: stage_3
+xy: 2051 1059
+size: 2000 2000
+lengthX: 1
+lengthY: 1
+
+name: explosion_1
+xy: 1 3013
+size: 2048 2048
+lengthX: 8
+lengthY: 8
+
+name: explosion_2
+xy: 4003 6015
+size: 2048 2048
+lengthX: 8
+lengthY: 8
+
+
+name: explosion_3
+xy: 1 963
+size: 2048 2048
+lengthX: 8
+lengthY: 8
+
+name: explosion_4
+xy: 6053 6015
+size: 2048 2048
+lengthX: 8
+lengthY: 8
+
+name: light
+xy: 1 1
+size: 960 960
+lengthX: 5
+lengthY: 5
+
+name: toon
+xy: 4003 5533
+size: 960 480
+lengthX: 10
+lengthY: 5
+
+name: plasma-green
+xy: 963 601
+size: 246 360
+lengthX: 1
+lengthY: 1
+
+name: sprite_fire
+xy: 4003 5231
+size: 300 300
+lengthX: 4
+lengthY: 4
+
+name: missile
+xy: 8103 7692
+size: 86 371
+lengthX: 1
+lengthY: 1
+
+name: machine_gun_bullet
+xy: 4965 5787
+size: 86 226
+lengthX: 1
+lengthY: 1
+

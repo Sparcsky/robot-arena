@@ -1,0 +1,77 @@
+name: heavy_gunner_attack
+xy: 1 5631
+size: 2770 2265
+lengthX: 10
+lengthY: 3
+
+name: heavy_gunner_walk
+xy: 2773 5796
+size: 2860 2100
+lengthX: 10
+lengthY: 6
+
+name: cannoner_walk
+xy: 1 3685
+size: 2480 1944
+lengthX: 10
+lengthY: 6
+
+name: cannoner_attack
+xy: 5635 6504
+size: 2480 1392
+lengthX: 10
+lengthY: 3
+
+name: medic_walk
+xy: 1 2123
+size: 2120 1560
+lengthX: 10
+lengthY: 6
+
+name: medic_attack
+xy: 1 636
+size: 1960 1485
+lengthX: 10
+lengthY: 3
+
+name: engineer_walk
+xy: 5635 5466
+size: 2140 1036
+lengthX: 10
+lengthY: 4
+
+name: brown_assault_idle
+xy: 1 1
+size: 1580 633
+lengthX: 10
+lengthY: 3
+
+name: sniper_walk
+xy: 2773 4288
+size: 1900 1506
+lengthX: 10
+lengthY: 6
+
+name: engineer_attack
+xy: 2483 2903
+size: 1830 1383
+lengthX: 10
+lengthY: 3
+
+name: brown_assault_walk
+xy: 2123 1599
+size: 1730 1302
+lengthX: 10
+lengthY: 6
+
+name: brown_assault_attack
+xy: 1963 337
+size: 1550 1260
+lengthX: 10
+lengthY: 3
+
+name: sniper_attack
+xy: 3855 1455
+size: 1540 1446
+lengthX: 10
+lengthY: 3

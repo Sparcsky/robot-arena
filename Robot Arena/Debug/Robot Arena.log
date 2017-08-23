@@ -1,0 +1,10 @@
+﻿  PlayState.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\utility.h(7): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\utility.h(16): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.cpp(31): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.cpp(31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.cpp(35): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Robot Arena.vcxproj -> C:\Users\IanJasper\Programmer-Files\Project\C++\Robot Arena\Debug\Robot Arena.exe
+  Robot Arena.vcxproj -> C:\Users\IanJasper\Programmer-Files\Project\C++\Robot Arena\Debug\Robot Arena.pdb (Partial PDB)

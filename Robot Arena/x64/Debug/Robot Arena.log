@@ -1,0 +1,56 @@
+﻿  Weapon.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\weapon.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  TextureAtlas.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\textureatlas.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics\Texture.hpp': No such file or directory
+  StateManager.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\statemanager.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  State.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\state.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SplashState.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\splash.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Splash.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\splash.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Spawner.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Sound.cpp
+  PlayState.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\playstate.h(2): fatal error C1083: Cannot open include file: 'SFML\Window\Keyboard.hpp': No such file or directory
+  MenuState.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\state.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  MatrixCode.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\matrixcode.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Game.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\game.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Main.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\game.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  InputHandler.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameState.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\state.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Robot.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Buttons.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\buttons.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  ButtonEffect.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\buttoneffect.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Animation.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\animation.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  RobotGenerator.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\robotgenerator.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Minion.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameCamera.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\gamecamera.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics\View.hpp': No such file or directory
+  Entity.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\entity.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Cursor.cpp
+  CrossPunisher.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\weapon.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Bullet.cpp
+  AssetManager.cpp
+c:\users\ianjasper\programmer-files\project\c++\robot arena\robot arena\assetmanager.h(2): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...

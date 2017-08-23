@@ -1,0 +1,11 @@
+name: geekboy
+xy: 0 0
+size: 1300 1300
+lengthX: 1
+lengthY: 1
+
+name: robothead
+xy: 1300 0
+size: 1300 1300
+lengthX: 1
+lengthY: 1
